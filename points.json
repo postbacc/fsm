@@ -1,0 +1,12 @@
+{
+    "points": [
+        { "constructor": 1 },
+        { "add get state": 1 },
+        { "default and counts": 2 },
+        { "current set state": 2 },
+        { "add transitions": 4 },
+        { "handle signal": 6 },
+        { "moonman": 2 },
+        { "brain bag": 2 }       
+    ]
+}
